@@ -1,0 +1,5 @@
+D:\Alura\SQL SERVER - Formação 1\projetos etl\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+D:\Alura\SQL SERVER - Formação 1\projetos etl\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+D:\Alura\SQL SERVER - Formação 1\projetos etl\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+D:\Alura\SQL SERVER - Formação 1\projetos etl\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+D:\Alura\SQL SERVER - Formação 1\projetos etl\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
